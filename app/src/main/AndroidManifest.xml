@@ -21,7 +21,8 @@
         </activity>
         <activity android:name=".FragmentChatView" />
         <activity android:name=".MyPagerAdapter" />
-        <activity android:name=".FragmentChatProfile"></activity>
+        <activity android:name=".FragmentChatProfile" />
+        <activity android:name=".Splash"></activity>
     </application>
 
 </manifest>

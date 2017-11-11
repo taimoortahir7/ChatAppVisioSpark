@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     private void setupToolbar(){
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("ChatSpark");
+        getSupportActionBar().setTitle("Chat Spark");
     }
 
     private void initViews(){
